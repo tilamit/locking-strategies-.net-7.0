@@ -10,8 +10,9 @@ namespace OurLockingApp.Models
 
         public string? Name { get; set; }
 
-        [JsonIgnore]
-        [ConcurrencyCheck]
-        public byte[]? RowVersion { get; set; }
+        //Enable this property for optimistic locking
+        //[JsonIgnore]
+        //[ConcurrencyCheck]
+        //public byte[]? RowVersion { get; set; }
     }
 }
