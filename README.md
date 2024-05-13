@@ -7,7 +7,7 @@
 
 ## Project Goal
 
-To demonstrate optimistic locking with .NET Core
+To demonstrate locking strategies with .NET Core
 
 <p align="center">
     <img src="https://i.ibb.co/4tZXdzD/optimistic-locking-img.png" alt="locking-strategies-.net-7.0" />
