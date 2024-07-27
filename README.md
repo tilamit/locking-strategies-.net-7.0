@@ -10,7 +10,7 @@
 To demonstrate locking strategies with .NET Core
 
 <p align="center">
-    <img src="https://i.ibb.co/4tZXdzD/optimistic-locking-img.png" alt="locking-strategies-.net-7.0" />
+    <img src="https://i.ibb.co/gJ3T3xS/locking-2024.png" alt="locking-strategies-.net-7.0" />
 </p>
 
  <h4>Image Ref: 
